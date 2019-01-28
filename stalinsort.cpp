@@ -26,3 +26,5 @@ int main()
         std::cout<<v[i]<<" ";
     }
 }
+
+//there's a tiny mistake in here but it will work in most cases
