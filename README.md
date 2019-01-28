@@ -1,4 +1,4 @@
 # stalinsort
 sorting algorithm
 
-![](https://66.media.tumblr.com/9bd63ee0237867bcc44944e049cb7555/tumblr_pm1n4heefi1trunkfo1_1280.jpg)
+![](https://66.media.tumblr.com/46a995335feae5ba27024dbb254cdb0f/tumblr_pm1n8hMiyC1trunkfo1_540.jpg)
