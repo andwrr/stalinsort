@@ -1,0 +1,2 @@
+# stalinsort
+sorting algorithm
