@@ -12,19 +12,14 @@ int main()
         v.push_back(temp);
     }
     
-    for (int i = 1; i < n; ++i)
+    
+    int max = v[0];
+    for (int i = 0; i < n; ++i)
     {
-        if (v[i] < v[i-1])
+        if (v[i] >= max)
         {
-            v.erase(v.begin()+i); 
-        }        
-    }
-        
-    int size = v.size();
-    for (int i = 0; i < size; ++i)
-    {
-        std::cout<<v[i]<<" ";
+            std::cout<<v[i]<<" "; 
+            max = v[i];   
+        }
     }
 }
-
-//there's a tiny mistake in here but it will work in most cases
