@@ -11,8 +11,7 @@ int main()
         std::cin>>temp;
         v.push_back(temp);
     }
-    
-    
+        
     int max = v[0];
     for (int i = 0; i < n; ++i)
     {
